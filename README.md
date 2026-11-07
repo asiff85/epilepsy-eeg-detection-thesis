@@ -12,7 +12,7 @@
 **Md. Reazul Islam**  
 *Department of Computer Science and Engineering, North Western University, Khulna, Bangladesh*  
 *Prepared by Md. Reazul Islam (B.Sc. in Computer Science & Engineering), prospective Fall 2027 M.S. Graduate Researcher actively seeking a Graduate Research Assistantship (RA/TA) in Data Science, Deep Learning, and Biomedical Signal Processing.*  
-🐙 GitHub: [@asiff85](https://github.com/asiff85)
+📧 [reazulislamasif@gmail.com](mailto:reazulislamasif@gmail.com) | 🐙 GitHub: [@asiff85](https://github.com/asiff85)
 
 </div>
 
@@ -250,6 +250,7 @@ jupyter lab notebooks/
 | **Academic Background** | B.Sc. in Computer Science & Engineering, North Western University, Khulna, Bangladesh |
 | **Candidate Profile** | Prepared by Md. Reazul Islam (B.Sc. in Computer Science & Engineering), prospective Fall 2027 M.S. Graduate Researcher actively seeking a Graduate Research Assistantship (RA/TA) in Data Science, Deep Learning, and Biomedical Signal Processing. |
 | **Research Interests** | Biomedical Signal Processing, Deep Learning (CNNs / Transformers / GNNs), Neuroimaging, Clinical Decision Support Systems |
+| **Contact Email** | [reazulislamasif@gmail.com](mailto:reazulislamasif@gmail.com) |
 | **GitHub Profile** | [@asiff85](https://github.com/asiff85) |
 | **Seeking Position** | **Graduate Research Assistantship (RA) / Teaching Assistantship (TA)** in Data Science, Deep Learning, and Biomedical Signal Processing |
 
