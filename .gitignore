@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints & autosaves
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDEs & Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Temporary scratch & extraction scripts
+scratch/
+tmp/
+*.tmp
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Bulk Raw Clinical EEG Data Files (>50MB)
+# Note: Sample lightweight .edf and .set files are included in data/sample_raw/ for reproducibility.
+# Full hospital multi-channel cohorts (>50MB) are excluded for repository agility.
+*.edf.gz
+*.bdf
+*.tar.gz
+*.zip
+*.rar
+data/raw_full/
+data/**/*.large.*
