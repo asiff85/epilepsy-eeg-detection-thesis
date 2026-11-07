@@ -11,8 +11,8 @@
 
 **Md. Reazul Islam**  
 *Department of Computer Science and Engineering, North Western University, Khulna, Bangladesh*  
-*Incoming Master of Science in Data Science Student, Bowling Green State University (BGSU), Fall 2027*  
-📧 [imdreaz@bgsu.edu](mailto:imdreaz@bgsu.edu) | 🐙 GitHub: [@asiff85](https://github.com/asiff85)
+*Prepared by Md. Reazul Islam (B.Sc. in Computer Science & Engineering), prospective Fall 2027 M.S. Graduate Researcher actively seeking a Graduate Research Assistantship (RA/TA) in Data Science, Deep Learning, and Biomedical Signal Processing.*  
+🐙 GitHub: [@asiff85](https://github.com/asiff85)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## ⚡ 30-Second Executive Summary for Faculty Review
 
-> **Candidate Profile Context**: Prepared by an incoming **M.S. in Data Science student at Bowling Green State University (Fall 2027)** actively seeking a **Graduate Research Assistantship (RA / TA)** in Biomedical Signal Processing, Deep Learning, and Clinical AI.
+> **Candidate Profile Context**: Prepared by Md. Reazul Islam (B.Sc. in Computer Science & Engineering), prospective Fall 2027 M.S. Graduate Researcher actively seeking a Graduate Research Assistantship (RA/TA) in Data Science, Deep Learning, and Biomedical Signal Processing.
 
 * **Primary Hospital-Acquired Clinical Dataset**: Directly addressed the critical scarcity of primary South Asian clinical neuroimaging data by conducting a 3-month data acquisition campaign at the **Medicine Department of Khulna Medical College & Hospital (KMCH)**. Screened 51 clinical referrals to establish a curated, balanced cohort of **32 subjects** (16 confirmed epileptic seizure-positive patients, 16 non-epileptic controls) recorded across **19 scalp channels** under the International 10–20 standard at **200 Hz sampling rate** (~1.5 hours per diagnostic session).
 * **Dual-Pipeline Architectural Framework**: Implemented an end-to-end comparative study contrasting:
@@ -247,12 +247,11 @@ jupyter lab notebooks/
 | Attribute | Details |
 | :--- | :--- |
 | **Author Name** | **Md. Reazul Islam** |
-| **Current Affiliation** | B.Sc. in Computer Science & Engineering, North Western University, Khulna, Bangladesh |
-| **Prospective Degree** | **Incoming Master of Science in Data Science Student**, Bowling Green State University (BGSU), Fall 2027 |
+| **Academic Background** | B.Sc. in Computer Science & Engineering, North Western University, Khulna, Bangladesh |
+| **Candidate Profile** | Prepared by Md. Reazul Islam (B.Sc. in Computer Science & Engineering), prospective Fall 2027 M.S. Graduate Researcher actively seeking a Graduate Research Assistantship (RA/TA) in Data Science, Deep Learning, and Biomedical Signal Processing. |
 | **Research Interests** | Biomedical Signal Processing, Deep Learning (CNNs / Transformers / GNNs), Neuroimaging, Clinical Decision Support Systems |
-| **Contact Email** | [imdreaz@bgsu.edu](mailto:imdreaz@bgsu.edu) |
 | **GitHub Profile** | [@asiff85](https://github.com/asiff85) |
-| **Seeking Position** | **Graduate Research Assistantship (RA) / Teaching Assistantship (TA)** under BGSU Data Science Faculty |
+| **Seeking Position** | **Graduate Research Assistantship (RA) / Teaching Assistantship (TA)** in Data Science, Deep Learning, and Biomedical Signal Processing |
 
 ---
 
@@ -275,5 +274,5 @@ If you build upon or reference this thesis or methodology, please cite the work 
 ---
 
 <div align="center">
-<sub>Designed with high academic rigor for prospective graduate faculty evaluation at Bowling Green State University (Fall 2027).</sub>
+<sub>Designed with high academic rigor for prospective graduate faculty evaluation across M.S. in Data Science, Computer Science, and Biomedical AI programs (Fall 2027).</sub>
 </div>
